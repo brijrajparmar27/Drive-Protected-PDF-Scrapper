@@ -11,4 +11,9 @@ this Script scraps pages from protected (Read only) PDF's on google Drive.
 ➌ once every page had loaded, copy the contents of Drive_PDF_Scraper file  
 ➍ press ctrl+shift+i to open dev tools and go to console tab  
 ➎ Paste the copied script from step 3, press Enter.  
-➏ be Patient, the PDF will download in about 13~14 seconds.  
+➏ be Patient, the PDF will download in about 13~14 seconds. 
+
+
+## Pirating Protected stuff is Theft.
+
+<img align="center" alt="GIF" src="https://c.tenor.com/gB2ra-4kOk4AAAAC/monkey-car.gif" width="100%" height=auto />
